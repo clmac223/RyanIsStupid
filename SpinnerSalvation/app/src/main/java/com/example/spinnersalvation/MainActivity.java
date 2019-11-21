@@ -19,6 +19,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemSelectedListener{
 //ryans reharded
     //help me
+    int i = 0;
         //please
     @Override
     protected void onCreate(Bundle savedInstanceState) {
