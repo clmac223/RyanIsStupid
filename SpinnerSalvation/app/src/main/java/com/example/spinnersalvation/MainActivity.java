@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     //help me
     int i = 0;
         //please
+    //Mission failed we'll get em' next time
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
